@@ -3,7 +3,7 @@ import './FileUpload.css';
 
 function FileUpload() {
     return (
-        <div>
+        <div className="container">
             <h1>Test</h1>
         </div>
     )
